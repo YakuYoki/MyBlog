@@ -1,0 +1,18 @@
+/*主题色更换-阅读模式reading*/
+body {
+  background: #FFF9DD;
+}
+#navigator {
+  background: hsla(49,100%,97%,.6);
+}
+div#catalogue {
+  background: #FFF9DD;
+}
+div#sideBar {
+  background: #FFF9DD;
+}
+@media (max-width: 767px) {
+  #set_btn_box {
+    background: hsla(49,100%,97%,.6)
+  }
+}
